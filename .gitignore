@@ -1,4 +1,8 @@
-bin
+bin/classes
+bin/res
+bin/AndroidManifest.xml
+bin/classes.dex
+bin/resources.ap_
 gen
 
 # Windows image file caches
