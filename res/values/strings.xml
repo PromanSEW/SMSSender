@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Sender</string>
+    <string name="action_new">Новое сообщение</string>
+    <string name="dialog_write_sms">Напишите сообщение</string>
+    <string name="main_nosms">Нет сообщений</string>
+    <string name="newsms_number">Получатель</string>
+    <string name="newsms_send">Отправить</string>
+    <string name="newsms_text">Текст</string>
+    <string name="newsms_title">Новое SMS-сообщение</string>
+    <string name="newsms_toast_error">Поля должны быть заполнены!</string>
+    <string name="time_today">%tR</string>
+    <string name="time_earlier" formatted="false">%td %tb</string>
+
+</resources>
